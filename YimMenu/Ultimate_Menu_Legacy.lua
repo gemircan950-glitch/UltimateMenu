@@ -155,9 +155,9 @@ TEQUILA = FMg + 29546
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-L7NEG = gui.add_tab("Ultimate Menu 1.72 Legacy")
+L7NEG = gui.add_tab("yXOO")
 
-L7NEG:add_text("       Ultimate Menu 1.72 Legacy ")
+L7NEG:add_text("       yXOO ")
 L7NEG:add_text("                       v2.8")
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -5841,42 +5841,40 @@ CreditsMenu = L7NEG:add_tab("Credits")
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Yimura = CreditsMenu:add_tab("Yimura and his team/maintainers")
+Yimura = CreditsMenu:add_tab("Emir777")
 Yimura:add_text("Yim Menu Cheat Developer For Legacy And Enhanced")
 Yimura:add_text("GitHub:")
 Yimura:add_text("https://github.com/YimMenu/YimMenu")
 Yimura:add_text("https://github.com/YimMenu/YimMenuV2")
 
-L7NEGDEV = CreditsMenu:add_tab("L7NEG")
+L7NEGDEV = CreditsMenu:add_tab("Kusay")
 L7NEGDEV:add_text("Coded This W Script With <3 To You All")
 L7NEGDEV:add_text("Source:")
 L7NEGDEV:add_text("https://github.com/UltimateMenu/UltimateMenu")
 
-SILENTSALO = CreditsMenu:add_tab("Silent")
+SILENTSALO = CreditsMenu:add_tab("ToastBrot150")
 SILENTSALO:add_text("For His W Useful Unlocks Along With Casino And Gunvan Menu")
 SILENTSALO:add_text("Source:")
 SILENTSALO:add_text("https://github.com/SilentSal0/Silent-Night")
 
-XESDDOOG = CreditsMenu:add_tab("SAMURAI aka xesdoog")
+XESDDOOG = CreditsMenu:add_tab("/")
 XESDDOOG:add_text("For His W YimResupplier Script")
 XESDDOOG:add_text("Source:")
 XESDDOOG:add_text("https://github.com/YimMenu-Lua/YimResupplier")
 XESDDOOG:add_text("https://github.com/YimMenu-Lua/Samurais-Scripts")
 
-SLON = CreditsMenu:add_tab("SLON")
+SLON = CreditsMenu:add_tab("/")
 SLON:add_text("For ''YimCeo v0.6 by Slon_.lua'' Code")
 SLON:add_text("Source:")
 SLON:add_text("https://www.unknowncheats.me/forum/grand-theft-auto-v/591335-yimceo-ceo-crates-method-yimmenu.html")
 
-Alestarov = CreditsMenu:add_tab("Alestarov")
+Alestarov = CreditsMenu:add_tab("/")
 Alestarov:add_text("For 1 Click Cayo Setup")
 Alestarov:add_text("Source:")
 Alestarov:add_text("https://github.com/YimMenu-Lua/Alestarov-Menu")
 
-YOUMENU = CreditsMenu:add_tab("And You <3")
-YOUMENU:add_text(
-	"Yes You Without You Or Your PRs and support You Give Me This Script Would Be Nothing Fr So Big Thanks To You All"
-)
+YOUMENU = CreditsMenu:add_tab("/")
+	YOUMENU:add_text("Yes You Without You Or Your PRs and support You Give Me This Script Would Be Nothing Fr So Big Thanks To You All")
 YOUMENU:add_text("You can report Bugs And Make PRs With Features Down Bellow:")
 YOUMENU:add_text("https://github.com/UltimateMenu/UltimateMenu/issues")
 
